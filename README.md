@@ -20,3 +20,9 @@ hadoop study
 -input /user/$(whoami)/input/pg5000.txt,/user/$(whoami)/input/pg4300.txt,/user/$(whoami)/input/pg20417.txt\
  -output /user/$(whoami)/output
 5.查看结果
+
+
+下次学习：
+1.从Github中get源码
+2.自己写mapper.py和reducer.py
+3.找一个很大的文件来mapreduce，测一下速度到底有多快
